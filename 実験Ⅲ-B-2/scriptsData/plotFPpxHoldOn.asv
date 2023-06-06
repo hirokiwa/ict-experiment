@@ -1,0 +1,17 @@
+plot(data1F, data1Ppx);
+hold on;
+plot(data2F, data1Ppx);
+hold on;
+plot(data3F, data1Ppx);
+hold on;
+plot(data4F, data1Ppx);
+hold on;
+plot(data5F, data1Ppx);
+hold on;
+plot(data1F, data1Ppx);
+hold on;
+plot(data1F, data1Ppx);
+hold on;
+plot(data1F, data1Ppx);
+hold on;
+
